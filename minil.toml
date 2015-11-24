@@ -1,0 +1,6 @@
+name = "Data-Query"
+# badges = ["travis"]
+authority="cpan:AEREAL"
+
+module_maker="ModuleBuildTiny"
+
